@@ -1,0 +1,144 @@
+05_4_1
+Memory Write Instructions: 245208
+05_8_1
+Memory Write Instructions: 249607
+05_16_1
+Memory Write Instructions: 252290
+05_32_1
+Memory Write Instructions: 255321
+06_4_1
+Memory Write Instructions: 256504
+06_8_1
+Memory Write Instructions: 264162
+06_16_1
+Memory Write Instructions: 279349
+06_32_1
+Memory Write Instructions: 293656
+07_4_1
+Memory Write Instructions: 283083
+07_8_1
+Memory Write Instructions: 304501
+07_16_1
+Memory Write Instructions: 330005
+07_32_1
+Memory Write Instructions: 371880
+08_4_1
+Memory Write Instructions: 334871
+08_8_1
+Memory Write Instructions: 385278
+08_16_1
+Memory Write Instructions: 464706
+08_32_1
+Memory Write Instructions: 569182
+09_4_1
+Memory Write Instructions: 442821
+09_8_1
+Memory Write Instructions: 553545
+09_16_1
+Memory Write Instructions: 723298
+09_32_1
+Memory Write Instructions: 988542
+10_4_1
+Memory Write Instructions: 673307
+10_8_1
+Memory Write Instructions: 899690
+10_16_1
+Memory Write Instructions: 1310989
+10_32_1
+Memory Write Instructions: 1940534
+11_4_1
+Memory Write Instructions: 1119940
+11_8_1
+Memory Write Instructions: 1644582
+11_16_1
+Memory Write Instructions: 2502741
+11_32_1
+Memory Write Instructions: 3998459
+12_4_1
+Memory Write Instructions: 2024261
+12_8_1
+Memory Write Instructions: 2838760
+12_16_1
+Memory Write Instructions: 5056193
+12_32_1
+Memory Write Instructions: 8364308
+13_4_1
+Memory Write Instructions: 3959276
+13_8_1
+Memory Write Instructions: 6245376
+13_16_1
+Memory Write Instructions: 10324173
+13_32_1
+Memory Write Instructions: 17478674
+14_4_1
+Memory Write Instructions: 7812822
+14_8_1
+Memory Write Instructions: 12609678
+14_16_1
+Memory Write Instructions: 19916165
+14_32_1
+Memory Write Instructions: 36737135
+15_4_1
+Memory Write Instructions: 15874781
+15_8_1
+Memory Write Instructions: 25380429
+15_16_1
+Memory Write Instructions: 43401208
+15_32_1
+Memory Write Instructions: 76499737
+16_4_1
+Memory Write Instructions: 25940439
+16_8_1
+Memory Write Instructions: 46040706
+16_16_1
+Memory Write Instructions: 88875499
+16_32_1
+Memory Write Instructions: 159175077
+17_4_1
+Memory Write Instructions: 52042486
+17_8_1
+Memory Write Instructions: 103709639
+17_16_1
+Memory Write Instructions: 181781843
+17_32_1
+Memory Write Instructions: 328552613
+18_4_1
+Memory Write Instructions: 125907522
+18_8_1
+Memory Write Instructions: 210613666
+18_16_1
+Memory Write Instructions: 350073705
+18_32_1
+Memory Write Instructions: 673607709
+19_4_1
+Memory Write Instructions: 247762866
+19_8_1
+Memory Write Instructions: 381557491
+19_16_1
+Memory Write Instructions: 745955888
+19_32_1
+Memory Write Instructions: 1374882956
+20_4_1
+Memory Write Instructions: 420694623
+20_8_1
+Memory Write Instructions: 768552208
+20_16_1
+Memory Write Instructions: 1440444678
+20_32_1
+Memory Write Instructions: 2793838821
+21_4_1
+Memory Write Instructions: 993545496
+21_8_1
+Memory Write Instructions: 1545581705
+21_16_1
+Memory Write Instructions: 2910312410
+21_32_1
+Memory Write Instructions: 5538756894
+22_4_1
+Memory Write Instructions: 2004577266
+22_8_1
+Memory Write Instructions: 3112970793
+22_16_1
+Memory Write Instructions: 6223634793
+22_32_1
+Memory Write Instructions: 11219361530

@@ -1,0 +1,217 @@
+
+05_4_1
+real	0m0.859s
+real	0m0.765s
+05_8_1
+real	0m0.859s
+real	0m0.765s
+05_16_1
+real	0m0.859s
+real	0m0.798s
+05_32_1
+real	0m0.867s
+real	0m0.798s
+06_4_1
+real	0m0.859s
+real	0m0.798s
+06_8_1
+real	0m0.842s
+real	0m0.757s
+06_16_1
+real	0m0.834s
+real	0m0.765s
+06_32_1
+real	0m0.867s
+real	0m0.773s
+07_4_1
+real	0m0.859s
+real	0m0.765s
+07_8_1
+real	0m0.875s
+real	0m0.782s
+07_16_1
+real	0m0.850s
+real	0m0.757s
+07_32_1
+real	0m0.842s
+real	0m0.773s
+08_4_1
+real	0m0.859s
+real	0m0.798s
+08_8_1
+real	0m0.850s
+real	0m0.782s
+08_16_1
+real	0m0.867s
+real	0m0.757s
+08_32_1
+real	0m0.859s
+real	0m0.757s
+09_4_1
+real	0m0.875s
+real	0m0.765s
+09_8_1
+real	0m0.867s
+real	0m0.798s
+09_16_1
+real	0m0.892s
+real	0m0.790s
+09_32_1
+real	0m0.867s
+real	0m0.790s
+10_4_1
+real	0m0.867s
+real	0m0.796s
+10_8_1
+real	0m0.884s
+real	0m0.790s
+10_16_1
+real	0m0.892s
+real	0m0.815s
+10_32_1
+real	0m0.867s
+real	0m0.807s
+11_4_1
+real	0m0.900s
+real	0m0.815s
+11_8_1
+real	0m0.884s
+real	0m0.823s
+11_16_1
+real	0m0.900s
+real	0m0.815s
+11_32_1
+real	0m0.900s
+real	0m0.806s
+12_4_1
+real	0m0.875s
+real	0m0.765s
+12_8_1
+real	0m0.900s
+real	0m0.782s
+12_16_1
+real	0m0.909s
+real	0m0.815s
+12_32_1
+real	0m0.934s
+real	0m0.840s
+13_4_1
+real	0m0.892s
+real	0m0.773s
+13_8_1
+real	0m0.934s
+real	0m0.790s
+13_16_1
+real	0m0.984s
+real	0m0.854s
+13_32_1
+real	0m1.017s
+real	0m0.873s
+14_4_1
+real	0m0.917s
+real	0m0.832s
+14_8_1
+real	0m0.992s
+real	0m0.840s
+14_16_1
+real	0m1.042s
+real	0m0.882s
+14_32_1
+real	0m1.175s
+real	0m0.965s
+15_4_1
+real	0m0.976s
+real	0m0.873s
+15_8_1
+real	0m1.084s
+real	0m0.882s
+15_16_1
+real	0m1.192s
+real	0m0.998s
+15_32_1
+real	0m1.492s
+real	0m1.173s
+16_4_1
+real	0m1.042s
+real	0m0.898s
+16_8_1
+real	0m1.167s
+real	0m1.007s
+16_16_1
+real	0m1.542s
+real	0m1.207s
+16_32_1
+real	0m2.125s
+real	0m1.523s
+17_4_1
+real	0m1.275s
+real	0m1.023s
+17_8_1
+real	0m1.708s
+real	0m1.232s
+17_16_1
+real	0m2.308s
+real	0m1.623s
+17_32_1
+real	0m3.499s
+real	0m2.347s
+18_4_1
+real	0m1.817s
+real	0m1.339s
+18_8_1
+real	0m2.508s
+real	0m1.748s
+18_16_1
+real	0m3.266s
+real	0m2.231s
+18_32_1
+real	0m6.239s
+real	0m4.111s
+19_4_1
+real	0m2.866s
+real	0m1.865s
+19_8_1
+real	0m3.466s
+real	0m2.422s
+19_16_1
+real	0m6.756s
+real	0m4.338s
+19_32_1
+real	0m12.386s
+real	0m7.385s
+20_4_1
+real	0m3.799s
+real	0m2.572s
+20_8_1
+real	0m6.214s
+real	0m4.313s
+20_16_1
+real	0m10.854s
+real	0m7.353s
+20_32_1
+real	0m23.031s
+real	0m14.814s
+21_4_1
+real	0m9.013s
+real	0m5.568s
+21_8_1
+real	0m11.970s
+real	0m7.653s
+21_16_1
+real	0m22.315s
+real	0m14.381s
+21_32_1
+real	0m40.581s
+real	0m27.826s
+22_4_1
+real	0m18.783s
+real	0m11.659s
+22_8_1
+real	0m24.532s
+real	0m15.124s
+22_16_1
+real	0m56.714s
+real	0m35.571s
+22_32_1
+real	1m26.275s
+real	0m56.883s

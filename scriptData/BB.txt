@@ -1,0 +1,144 @@
+05_4_1
+Number of basic blocks: 1453478
+05_8_1
+Number of basic blocks: 1822866
+05_16_1
+Number of basic blocks: 1648095
+05_32_1
+Number of basic blocks: 1643648
+06_4_1
+Number of basic blocks: 2085916
+06_8_1
+Number of basic blocks: 1720139
+06_16_1
+Number of basic blocks: 2057172
+06_32_1
+Number of basic blocks: 1452876
+07_4_1
+Number of basic blocks: 1425875
+07_8_1
+Number of basic blocks: 1528388
+07_16_1
+Number of basic blocks: 1529967
+07_32_1
+Number of basic blocks: 1771428
+08_4_1
+Number of basic blocks: 1614722
+08_8_1
+Number of basic blocks: 1525257
+08_16_1
+Number of basic blocks: 1693524
+08_32_1
+Number of basic blocks: 1987946
+09_4_1
+Number of basic blocks: 1819393
+09_8_1
+Number of basic blocks: 1904806
+09_16_1
+Number of basic blocks: 1994228
+09_32_1
+Number of basic blocks: 3681147
+10_4_1
+Number of basic blocks: 2382733
+10_8_1
+Number of basic blocks: 3385030
+10_16_1
+Number of basic blocks: 2905532
+10_32_1
+Number of basic blocks: 3836738
+11_4_1
+Number of basic blocks: 3897566
+11_8_1
+Number of basic blocks: 3348655
+11_16_1
+Number of basic blocks: 4578467
+11_32_1
+Number of basic blocks: 7522008
+12_4_1
+Number of basic blocks: 4328181
+12_8_1
+Number of basic blocks: 5045212
+12_16_1
+Number of basic blocks: 8156919
+12_32_1
+Number of basic blocks: 13908330
+13_4_1
+Number of basic blocks: 6676390
+13_8_1
+Number of basic blocks: 10059026
+13_16_1
+Number of basic blocks: 16499294
+13_32_1
+Number of basic blocks: 27368204
+14_4_1
+Number of basic blocks: 12030904
+14_8_1
+Number of basic blocks: 18924239
+14_16_1
+Number of basic blocks: 28589934
+14_32_1
+Number of basic blocks: 57631217
+15_4_1
+Number of basic blocks: 22844325
+15_8_1
+Number of basic blocks: 37489336
+15_16_1
+Number of basic blocks: 65067688
+15_32_1
+Number of basic blocks: 118857759
+16_4_1
+Number of basic blocks: 35151437
+16_8_1
+Number of basic blocks: 63950597
+16_16_1
+Number of basic blocks: 132930737
+16_32_1
+Number of basic blocks: 249193620
+17_4_1
+Number of basic blocks: 70378219
+17_8_1
+Number of basic blocks: 151915538
+17_16_1
+Number of basic blocks: 275931642
+17_32_1
+Number of basic blocks: 519716702
+18_4_1
+Number of basic blocks: 172766792
+18_8_1
+Number of basic blocks: 308711760
+18_16_1
+Number of basic blocks: 497196012
+18_32_1
+Number of basic blocks: 1071228308
+19_4_1
+Number of basic blocks: 338079457
+19_8_1
+Number of basic blocks: 529794274
+19_16_1
+Number of basic blocks: 1133409584
+19_32_1
+Number of basic blocks: 2174023167
+20_4_1
+Number of basic blocks: 567446775
+20_8_1
+Number of basic blocks: 1070927173
+20_16_1
+Number of basic blocks: 2071459383
+20_32_1
+Number of basic blocks: 4405415762
+21_4_1
+Number of basic blocks: 1369864776
+21_8_1
+Number of basic blocks: 2169051139
+21_16_1
+Number of basic blocks: 4214223110
+21_32_1
+Number of basic blocks: 8253939031
+22_4_1
+Number of basic blocks: 2821045902
+22_8_1
+Number of basic blocks: 4400199429
+22_16_1
+Number of basic blocks: 9691692520
+22_32_1
+Number of basic blocks: 16846059689

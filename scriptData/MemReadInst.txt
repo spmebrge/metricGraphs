@@ -1,0 +1,144 @@
+05_4_1
+Memory Read Instructions: 1203609
+05_8_1
+Memory Read Instructions: 1316416
+05_16_1
+Memory Read Instructions: 1075580
+05_32_1
+Memory Read Instructions: 1039871
+06_4_1
+Memory Read Instructions: 1087009
+06_8_1
+Memory Read Instructions: 1248968
+06_16_1
+Memory Read Instructions: 1557358
+06_32_1
+Memory Read Instructions: 1181456
+07_4_1
+Memory Read Instructions: 1201903
+07_8_1
+Memory Read Instructions: 1156895
+07_16_1
+Memory Read Instructions: 1534838
+07_32_1
+Memory Read Instructions: 1560380
+08_4_1
+Memory Read Instructions: 1519438
+08_8_1
+Memory Read Instructions: 1563027
+08_16_1
+Memory Read Instructions: 1560425
+08_32_1
+Memory Read Instructions: 1869724
+09_4_1
+Memory Read Instructions: 1847183
+09_8_1
+Memory Read Instructions: 2197727
+09_16_1
+Memory Read Instructions: 2569924
+09_32_1
+Memory Read Instructions: 3130128
+10_4_1
+Memory Read Instructions: 2102366
+10_8_1
+Memory Read Instructions: 2726635
+10_16_1
+Memory Read Instructions: 3905613
+10_32_1
+Memory Read Instructions: 5735456
+11_4_1
+Memory Read Instructions: 3376251
+11_8_1
+Memory Read Instructions: 4646566
+11_16_1
+Memory Read Instructions: 7145701
+11_32_1
+Memory Read Instructions: 11904472
+12_4_1
+Memory Read Instructions: 5347643
+12_8_1
+Memory Read Instructions: 6581729
+12_16_1
+Memory Read Instructions: 14710196
+12_32_1
+Memory Read Instructions: 25523265
+13_4_1
+Memory Read Instructions: 10221188
+13_8_1
+Memory Read Instructions: 16687034
+13_16_1
+Memory Read Instructions: 28817282
+13_32_1
+Memory Read Instructions: 49640991
+14_4_1
+Memory Read Instructions: 20452777
+14_8_1
+Memory Read Instructions: 34909677
+14_16_1
+Memory Read Instructions: 44433652
+14_32_1
+Memory Read Instructions: 109135090
+15_4_1
+Memory Read Instructions: 41990141
+15_8_1
+Memory Read Instructions: 66926568
+15_16_1
+Memory Read Instructions: 120261110
+15_32_1
+Memory Read Instructions: 222193023
+16_4_1
+Memory Read Instructions: 55430168
+16_8_1
+Memory Read Instructions: 101054495
+16_16_1
+Memory Read Instructions: 247297374
+16_32_1
+Memory Read Instructions: 466208364
+17_4_1
+Memory Read Instructions: 112323962
+17_8_1
+Memory Read Instructions: 290628363
+17_16_1
+Memory Read Instructions: 523372230
+17_32_1
+Memory Read Instructions: 998088547
+18_4_1
+Memory Read Instructions: 334425808
+18_8_1
+Memory Read Instructions: 595614670
+18_16_1
+Memory Read Instructions: 805334316
+18_32_1
+Memory Read Instructions: 2048967180
+19_4_1
+Memory Read Instructions: 641999225
+19_8_1
+Memory Read Instructions: 855860519
+19_16_1
+Memory Read Instructions: 2109042773
+19_32_1
+Memory Read Instructions: 4069158673
+20_4_1
+Memory Read Instructions: 918922166
+20_8_1
+Memory Read Instructions: 1736539001
+20_16_1
+Memory Read Instructions: 3371038531
+20_32_1
+Memory Read Instructions: 8124372774
+21_4_1
+Memory Read Instructions: 2608646736
+21_8_1
+Memory Read Instructions: 3523689498
+21_16_1
+Memory Read Instructions: 6867409209
+21_32_1
+Memory Read Instructions: 13518019809
+22_4_1
+Memory Read Instructions: 5499620373
+22_8_1
+Memory Read Instructions: 7161854845
+22_16_1
+Memory Read Instructions: 18385511680
+22_32_1
+Memory Read Instructions: 27630009899

@@ -1,0 +1,144 @@
+05_4_1
+Memory Read Size: 5283461
+05_8_1
+Memory Read Size: 5741915
+05_16_1
+Memory Read Size: 4802576
+05_32_1
+Memory Read Size: 4657585
+06_4_1
+Memory Read Size: 4866260
+06_8_1
+Memory Read Size: 5543226
+06_16_1
+Memory Read Size: 6847120
+06_32_1
+Memory Read Size: 5402097
+07_4_1
+Memory Read Size: 5459428
+07_8_1
+Memory Read Size: 5377663
+07_16_1
+Memory Read Size: 6946803
+07_32_1
+Memory Read Size: 7244118
+08_4_1
+Memory Read Size: 6942626
+08_8_1
+Memory Read Size: 7366911
+08_16_1
+Memory Read Size: 7725168
+08_32_1
+Memory Read Size: 9449740
+09_4_1
+Memory Read Size: 8745953
+09_8_1
+Memory Read Size: 10628789
+09_16_1
+Memory Read Size: 12911209
+09_32_1
+Memory Read Size: 16515087
+10_4_1
+Memory Read Size: 10718619
+10_8_1
+Memory Read Size: 14285218
+10_16_1
+Memory Read Size: 20983390
+10_32_1
+Memory Read Size: 31271716
+11_4_1
+Memory Read Size: 17930036
+11_8_1
+Memory Read Size: 25542261
+11_16_1
+Memory Read Size: 39156328
+11_32_1
+Memory Read Size: 66589654
+12_4_1
+Memory Read Size: 29739962
+12_8_1
+Memory Read Size: 35835004
+12_16_1
+Memory Read Size: 81561222
+12_32_1
+Memory Read Size: 144486904
+13_4_1
+Memory Read Size: 57696425
+13_8_1
+Memory Read Size: 94434988
+13_16_1
+Memory Read Size: 163224456
+13_32_1
+Memory Read Size: 279611403
+14_4_1
+Memory Read Size: 117177658
+14_8_1
+Memory Read Size: 199046956
+14_16_1
+Memory Read Size: 244878572
+14_32_1
+Memory Read Size: 616707841
+15_4_1
+Memory Read Size: 240820145
+15_8_1
+Memory Read Size: 380801496
+15_16_1
+Memory Read Size: 679561900
+15_32_1
+Memory Read Size: 1249142195
+16_4_1
+Memory Read Size: 313425325
+16_8_1
+Memory Read Size: 562850446
+16_16_1
+Memory Read Size: 1395468027
+16_32_1
+Memory Read Size: 2613095070
+17_4_1
+Memory Read Size: 633319247
+17_8_1
+Memory Read Size: 1657679876
+17_16_1
+Memory Read Size: 2957289708
+17_32_1
+Memory Read Size: 5601634515
+18_4_1
+Memory Read Size: 1916189089
+18_8_1
+Memory Read Size: 3389795617
+18_16_1
+Memory Read Size: 4398343304
+18_32_1
+Memory Read Size: 11466882070
+19_4_1
+Memory Read Size: 3662958350
+19_8_1
+Memory Read Size: 4729241275
+19_16_1
+Memory Read Size: 11799769627
+19_32_1
+Memory Read Size: 22585817520
+20_4_1
+Memory Read Size: 5158367636
+20_8_1
+Memory Read Size: 9574035473
+20_16_1
+Memory Read Size: 18310579469
+20_32_1
+Memory Read Size: 44838562980
+21_4_1
+Memory Read Size: 14829919086
+21_8_1
+Memory Read Size: 19377296544
+21_16_1
+Memory Read Size: 37219900415
+21_32_1
+Memory Read Size: 72377138515
+22_4_1
+Memory Read Size: 31341144488
+22_8_1
+Memory Read Size: 39255470114
+22_16_1
+Memory Read Size: 102478451021
+22_32_1
+Memory Read Size: 147625742955
