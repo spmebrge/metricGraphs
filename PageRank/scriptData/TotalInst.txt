@@ -1,0 +1,144 @@
+05_4_1
+Number of instructions: 7008469
+05_8_1
+Number of instructions: 5704732
+05_16_1
+Number of instructions: 7738825
+05_32_1
+Number of instructions: 6650875
+06_4_1
+Number of instructions: 6634475
+06_8_1
+Number of instructions: 6782465
+06_16_1
+Number of instructions: 7009533
+06_32_1
+Number of instructions: 6501691
+07_4_1
+Number of instructions: 7718413
+07_8_1
+Number of instructions: 5963682
+07_16_1
+Number of instructions: 7300802
+07_32_1
+Number of instructions: 6730356
+08_4_1
+Number of instructions: 8798567
+08_8_1
+Number of instructions: 7661211
+08_16_1
+Number of instructions: 7923819
+08_32_1
+Number of instructions: 8751456
+09_4_1
+Number of instructions: 7314365
+09_8_1
+Number of instructions: 7917049
+09_16_1
+Number of instructions: 8768332
+09_32_1
+Number of instructions: 11815654
+10_4_1
+Number of instructions: 10538750
+10_8_1
+Number of instructions: 10589086
+10_16_1
+Number of instructions: 13596221
+10_32_1
+Number of instructions: 18631057
+11_4_1
+Number of instructions: 12436751
+11_8_1
+Number of instructions: 17766224
+11_16_1
+Number of instructions: 23488266
+11_32_1
+Number of instructions: 34237825
+12_4_1
+Number of instructions: 18034530
+12_8_1
+Number of instructions: 28432575
+12_16_1
+Number of instructions: 41778216
+12_32_1
+Number of instructions: 70070131
+13_4_1
+Number of instructions: 31331933
+13_8_1
+Number of instructions: 48692945
+13_16_1
+Number of instructions: 81938211
+13_32_1
+Number of instructions: 140332857
+14_4_1
+Number of instructions: 57232330
+14_8_1
+Number of instructions: 94799055
+14_16_1
+Number of instructions: 165349256
+14_32_1
+Number of instructions: 296341835
+15_4_1
+Number of instructions: 107580924
+15_8_1
+Number of instructions: 186964857
+15_16_1
+Number of instructions: 332942289
+15_32_1
+Number of instructions: 615059991
+16_4_1
+Number of instructions: 213471341
+16_8_1
+Number of instructions: 366656899
+16_16_1
+Number of instructions: 673552530
+16_32_1
+Number of instructions: 1254165462
+17_4_1
+Number of instructions: 426127066
+17_8_1
+Number of instructions: 744775112
+17_16_1
+Number of instructions: 1382555799
+17_32_1
+Number of instructions: 2591748729
+18_4_1
+Number of instructions: 856346185
+18_8_1
+Number of instructions: 1512036256
+18_16_1
+Number of instructions: 2838717308
+18_32_1
+Number of instructions: 5361587225
+19_4_1
+Number of instructions: 1664245119
+19_8_1
+Number of instructions: 3061877129
+19_16_1
+Number of instructions: 5800262476
+19_32_1
+Number of instructions: 11103015220
+20_4_1
+Number of instructions: 3348178410
+20_8_1
+Number of instructions: 6188378382
+20_16_1
+Number of instructions: 11806748796
+20_32_1
+Number of instructions: 22790746451
+21_4_1
+Number of instructions: 6752455700
+21_8_1
+Number of instructions: 12519214350
+21_16_1
+Number of instructions: 23279846105
+21_32_1
+Number of instructions: 45258749159
+22_4_1
+Number of instructions: 13594320172
+22_8_1
+Number of instructions: 25353858470
+22_16_1
+Number of instructions: 47336830095
+22_32_1
+Number of instructions: 92282429709

@@ -1,0 +1,144 @@
+05_4_1
+Memory Read Instructions: 1402721
+05_8_1
+Memory Read Instructions: 1370221
+05_16_1
+Memory Read Instructions: 1111997
+05_32_1
+Memory Read Instructions: 1434655
+06_4_1
+Memory Read Instructions: 1339568
+06_8_1
+Memory Read Instructions: 1102671
+06_16_1
+Memory Read Instructions: 1427291
+06_32_1
+Memory Read Instructions: 1423168
+07_4_1
+Memory Read Instructions: 1324748
+07_8_1
+Memory Read Instructions: 1393524
+07_16_1
+Memory Read Instructions: 1365089
+07_32_1
+Memory Read Instructions: 1661281
+08_4_1
+Memory Read Instructions: 1500691
+08_8_1
+Memory Read Instructions: 1374719
+08_16_1
+Memory Read Instructions: 1653713
+08_32_1
+Memory Read Instructions: 1848910
+09_4_1
+Memory Read Instructions: 1482126
+09_8_1
+Memory Read Instructions: 1866788
+09_16_1
+Memory Read Instructions: 2235497
+09_32_1
+Memory Read Instructions: 2955593
+10_4_1
+Memory Read Instructions: 2008968
+10_8_1
+Memory Read Instructions: 2530144
+10_16_1
+Memory Read Instructions: 3779258
+10_32_1
+Memory Read Instructions: 5452605
+11_4_1
+Memory Read Instructions: 2963143
+11_8_1
+Memory Read Instructions: 4582858
+11_16_1
+Memory Read Instructions: 6736462
+11_32_1
+Memory Read Instructions: 10721441
+12_4_1
+Memory Read Instructions: 5225929
+12_8_1
+Memory Read Instructions: 7833106
+12_16_1
+Memory Read Instructions: 13445355
+12_32_1
+Memory Read Instructions: 22193583
+13_4_1
+Memory Read Instructions: 9458207
+13_8_1
+Memory Read Instructions: 15411988
+13_16_1
+Memory Read Instructions: 26742653
+13_32_1
+Memory Read Instructions: 46599739
+14_4_1
+Memory Read Instructions: 17517939
+14_8_1
+Memory Read Instructions: 30222904
+14_16_1
+Memory Read Instructions: 54670801
+14_32_1
+Memory Read Instructions: 98595104
+15_4_1
+Memory Read Instructions: 34039855
+15_8_1
+Memory Read Instructions: 61422584
+15_16_1
+Memory Read Instructions: 109298287
+15_32_1
+Memory Read Instructions: 208179139
+16_4_1
+Memory Read Instructions: 68524891
+16_8_1
+Memory Read Instructions: 120315782
+16_16_1
+Memory Read Instructions: 224839319
+16_32_1
+Memory Read Instructions: 423133808
+17_4_1
+Memory Read Instructions: 137596863
+17_8_1
+Memory Read Instructions: 245511666
+17_16_1
+Memory Read Instructions: 462803768
+17_32_1
+Memory Read Instructions: 879048678
+18_4_1
+Memory Read Instructions: 277794777
+18_8_1
+Memory Read Instructions: 500427960
+18_16_1
+Memory Read Instructions: 954517082
+18_32_1
+Memory Read Instructions: 1820956801
+19_4_1
+Memory Read Instructions: 540741593
+19_8_1
+Memory Read Instructions: 1015926168
+19_16_1
+Memory Read Instructions: 1954433957
+19_32_1
+Memory Read Instructions: 3779599941
+20_4_1
+Memory Read Instructions: 1089843251
+20_8_1
+Memory Read Instructions: 2058796395
+20_16_1
+Memory Read Instructions: 3985287359
+20_32_1
+Memory Read Instructions: 7771372861
+21_4_1
+Memory Read Instructions: 2204093817
+21_8_1
+Memory Read Instructions: 4172795470
+21_16_1
+Memory Read Instructions: 7840166520
+21_32_1
+Memory Read Instructions: 15390833953
+22_4_1
+Memory Read Instructions: 4447907865
+22_8_1
+Memory Read Instructions: 8466201411
+22_16_1
+Memory Read Instructions: 15966867370
+22_32_1
+Memory Read Instructions: 31428374597

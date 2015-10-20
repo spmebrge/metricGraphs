@@ -1,0 +1,216 @@
+05_4_1
+real	0m0.859s
+real	0m0.773s
+05_8_1
+real	0m0.859s
+real	0m0.765s
+05_16_1
+real	0m0.842s
+real	0m0.823s
+05_32_1
+real	0m0.892s
+real	0m0.774s
+06_4_1
+real	0m0.842s
+real	0m0.773s
+06_8_1
+real	0m0.859s
+real	0m0.757s
+06_16_1
+real	0m0.867s
+real	0m0.765s
+06_32_1
+real	0m0.850s
+real	0m0.773s
+07_4_1
+real	0m0.850s
+real	0m0.790s
+07_8_1
+real	0m0.867s
+real	0m0.757s
+07_16_1
+real	0m0.842s
+real	0m0.757s
+07_32_1
+real	0m0.825s
+real	0m0.790s
+08_4_1
+real	0m0.867s
+real	0m0.807s
+08_8_1
+real	0m0.834s
+real	0m0.765s
+08_16_1
+real	0m0.842s
+real	0m0.749s
+08_32_1
+real	0m0.875s
+real	0m0.790s
+09_4_1
+real	0m0.892s
+real	0m0.790s
+09_8_1
+real	0m0.900s
+real	0m0.798s
+09_16_1
+real	0m0.859s
+real	0m0.765s
+09_32_1
+real	0m0.867s
+real	0m0.764s
+10_4_1
+real	0m0.892s
+real	0m0.782s
+10_8_1
+real	0m0.875s
+real	0m0.857s
+10_16_1
+real	0m0.842s
+real	0m0.765s
+10_32_1
+real	0m0.851s
+real	0m0.765s
+11_4_1
+real	0m0.867s
+real	0m0.798s
+11_8_1
+real	0m0.909s
+real	0m0.798s
+11_16_1
+real	0m0.867s
+real	0m0.840s
+11_32_1
+real	0m0.875s
+real	0m0.799s
+12_4_1
+real	0m0.892s
+real	0m0.790s
+12_8_1
+real	0m0.900s
+real	0m0.815s
+12_16_1
+real	0m0.875s
+real	0m0.807s
+12_32_1
+real	0m0.884s
+real	0m0.782s
+13_4_1
+real	0m0.884s
+real	0m0.807s
+13_8_1
+real	0m0.892s
+real	0m0.815s
+13_16_1
+real	0m0.984s
+real	0m0.845s
+13_32_1
+real	0m0.967s
+real	0m0.848s
+14_4_1
+real	0m0.909s
+real	0m0.807s
+14_8_1
+real	0m0.942s
+real	0m0.832s
+14_16_1
+real	0m1.009s
+real	0m0.865s
+14_32_1
+real	0m1.117s
+real	0m0.932s
+15_4_1
+real	0m0.942s
+real	0m0.832s
+15_8_1
+real	0m1.042s
+real	0m0.898s
+15_16_1
+real	0m1.159s
+real	0m0.957s
+15_32_1
+real	0m1.417s
+real	0m1.132s
+16_4_1
+real	0m1.117s
+real	0m0.907s
+16_8_1
+real	0m1.234s
+real	0m0.965s
+16_16_1
+real	0m1.475s
+real	0m1.198s
+16_32_1
+real	0m2.008s
+real	0m1.523s
+17_4_1
+real	0m1.242s
+real	0m1.049s
+17_8_1
+real	0m1.542s
+real	0m1.215s
+17_16_1
+real	0m2.141s
+real	0m1.565s
+17_32_1
+real	0m3.249s
+real	0m2.289s
+18_4_1
+real	0m1.692s
+real	0m1.323s
+18_8_1
+real	0m2.283s
+real	0m1.665s
+18_16_1
+real	0m3.574s
+real	0m2.422s
+18_32_1
+real	0m5.898s
+real	0m3.951s
+19_4_1
+real	0m2.524s
+real	0m1.848s
+19_8_1
+real	0m3.884s
+real	0m2.707s
+19_16_1
+real	0m6.456s
+real	0m4.396s
+19_32_1
+real	0m11.429s
+real	0m7.503s
+20_4_1
+real	0m4.457s
+real	0m3.114s
+20_8_1
+real	0m7.589s
+real	0m5.034s
+20_16_1
+real	0m13.794s
+real	0m9.127s
+20_32_1
+real	0m24.689s
+real	0m16.601s
+21_4_1
+real	0m8.805s
+real	0m5.871s
+21_8_1
+real	0m15.547s
+real	0m10.227s
+21_16_1
+real	0m27.695s
+real	0m18.601s
+21_32_1
+real	0m52.429s
+real	0m34.473s
+22_4_1
+real	0m17.811s
+real	0m11.494s
+22_8_1
+real	0m32.485s
+real	0m21.055s
+22_16_1
+real	0m58.030s
+real	0m37.676s
+22_32_1
+real	1m52.212s
+real	1m13.499s

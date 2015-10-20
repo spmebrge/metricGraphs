@@ -1,0 +1,144 @@
+05_4_1
+Memory Write Size: 1444369
+05_8_1
+Memory Write Size: 1475334
+05_16_1
+Memory Write Size: 1478102
+05_32_1
+Memory Write Size: 1500872
+06_4_1
+Memory Write Size: 1505578
+06_8_1
+Memory Write Size: 1545685
+06_16_1
+Memory Write Size: 1629714
+06_32_1
+Memory Write Size: 1681780
+07_4_1
+Memory Write Size: 1626812
+07_8_1
+Memory Write Size: 1740758
+07_16_1
+Memory Write Size: 1888659
+07_32_1
+Memory Write Size: 2110364
+08_4_1
+Memory Write Size: 1894371
+08_8_1
+Memory Write Size: 2147696
+08_16_1
+Memory Write Size: 2562096
+08_32_1
+Memory Write Size: 3162765
+09_4_1
+Memory Write Size: 2409306
+09_8_1
+Memory Write Size: 3003440
+09_16_1
+Memory Write Size: 3963421
+09_32_1
+Memory Write Size: 5391705
+10_4_1
+Memory Write Size: 3544416
+10_8_1
+Memory Write Size: 4837592
+10_16_1
+Memory Write Size: 6989242
+10_32_1
+Memory Write Size: 10516568
+11_4_1
+Memory Write Size: 5739962
+11_8_1
+Memory Write Size: 8541067
+11_16_1
+Memory Write Size: 13355143
+11_32_1
+Memory Write Size: 21350110
+12_4_1
+Memory Write Size: 10255468
+12_8_1
+Memory Write Size: 16212625
+12_16_1
+Memory Write Size: 26656201
+12_32_1
+Memory Write Size: 44492432
+13_4_1
+Memory Write Size: 19473404
+13_8_1
+Memory Write Size: 31950560
+13_16_1
+Memory Write Size: 54482044
+13_32_1
+Memory Write Size: 93674857
+14_4_1
+Memory Write Size: 37799618
+14_8_1
+Memory Write Size: 64095997
+14_16_1
+Memory Write Size: 111853601
+14_32_1
+Memory Write Size: 196574579
+15_4_1
+Memory Write Size: 74891303
+15_8_1
+Memory Write Size: 129127043
+15_16_1
+Memory Write Size: 229552690
+15_32_1
+Memory Write Size: 411254822
+16_4_1
+Memory Write Size: 150203142
+16_8_1
+Memory Write Size: 260254604
+16_16_1
+Memory Write Size: 469519609
+16_32_1
+Memory Write Size: 854022755
+17_4_1
+Memory Write Size: 301244012
+17_8_1
+Memory Write Size: 527912612
+17_16_1
+Memory Write Size: 958301556
+17_32_1
+Memory Write Size: 1760988603
+18_4_1
+Memory Write Size: 604939554
+18_8_1
+Memory Write Size: 1067393660
+18_16_1
+Memory Write Size: 1956586944
+18_32_1
+Memory Write Size: 3615543230
+19_4_1
+Memory Write Size: 1205485388
+19_8_1
+Memory Write Size: 2152453297
+19_16_1
+Memory Write Size: 3973765793
+19_32_1
+Memory Write Size: 7423998713
+20_4_1
+Memory Write Size: 2416147736
+20_8_1
+Memory Write Size: 4335285935
+20_16_1
+Memory Write Size: 8040431698
+20_32_1
+Memory Write Size: 15136249963
+21_4_1
+Memory Write Size: 4851631348
+21_8_1
+Memory Write Size: 8719808992
+21_16_1
+Memory Write Size: 16212356116
+21_32_1
+Memory Write Size: 30694470342
+22_4_1
+Memory Write Size: 9731055836
+22_8_1
+Memory Write Size: 17552153514
+22_16_1
+Memory Write Size: 32731339006
+22_32_1
+Memory Write Size: 62198298110

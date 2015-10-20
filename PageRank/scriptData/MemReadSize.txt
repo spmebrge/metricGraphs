@@ -1,0 +1,144 @@
+05_4_1
+Memory Read Size: 6082580
+05_8_1
+Memory Read Size: 5909857
+05_16_1
+Memory Read Size: 4944177
+05_32_1
+Memory Read Size: 6262682
+06_4_1
+Memory Read Size: 5886109
+06_8_1
+Memory Read Size: 4968964
+06_16_1
+Memory Read Size: 6331678
+06_32_1
+Memory Read Size: 6325730
+07_4_1
+Memory Read Size: 5915194
+07_8_1
+Memory Read Size: 6304187
+07_16_1
+Memory Read Size: 6264004
+07_32_1
+Memory Read Size: 7564767
+08_4_1
+Memory Read Size: 6826935
+08_8_1
+Memory Read Size: 6499711
+08_16_1
+Memory Read Size: 7904452
+08_32_1
+Memory Read Size: 9109462
+09_4_1
+Memory Read Size: 7125376
+09_8_1
+Memory Read Size: 9124010
+09_16_1
+Memory Read Size: 11260512
+09_32_1
+Memory Read Size: 15140824
+10_4_1
+Memory Read Size: 10147440
+10_8_1
+Memory Read Size: 13112748
+10_16_1
+Memory Read Size: 19544284
+10_32_1
+Memory Read Size: 28768399
+11_4_1
+Memory Read Size: 15652588
+11_8_1
+Memory Read Size: 24029959
+11_16_1
+Memory Read Size: 35845397
+11_32_1
+Memory Read Size: 57206782
+12_4_1
+Memory Read Size: 28085399
+12_8_1
+Memory Read Size: 42446718
+12_16_1
+Memory Read Size: 72025438
+12_32_1
+Memory Read Size: 119192451
+13_4_1
+Memory Read Size: 51972501
+13_8_1
+Memory Read Size: 84050445
+13_16_1
+Memory Read Size: 144734806
+13_32_1
+Memory Read Size: 250710175
+14_4_1
+Memory Read Size: 97376029
+14_8_1
+Memory Read Size: 166170878
+14_16_1
+Memory Read Size: 296518929
+14_32_1
+Memory Read Size: 529699666
+15_4_1
+Memory Read Size: 190694374
+15_8_1
+Memory Read Size: 337353574
+15_16_1
+Memory Read Size: 593088733
+15_32_1
+Memory Read Size: 1115692532
+16_4_1
+Memory Read Size: 383494025
+16_8_1
+Memory Read Size: 661931897
+16_16_1
+Memory Read Size: 1218440967
+16_32_1
+Memory Read Size: 2264610033
+17_4_1
+Memory Read Size: 769885362
+17_8_1
+Memory Read Size: 1347594744
+17_16_1
+Memory Read Size: 2502822026
+17_32_1
+Memory Read Size: 4695796041
+18_4_1
+Memory Read Size: 1551259464
+18_8_1
+Memory Read Size: 2739385543
+18_16_1
+Memory Read Size: 5144415710
+18_32_1
+Memory Read Size: 9707302994
+19_4_1
+Memory Read Size: 3018096977
+19_8_1
+Memory Read Size: 5549428232
+19_16_1
+Memory Read Size: 10507541328
+19_32_1
+Memory Read Size: 20079457496
+20_4_1
+Memory Read Size: 6072143443
+20_8_1
+Memory Read Size: 11224146726
+20_16_1
+Memory Read Size: 21378113962
+20_32_1
+Memory Read Size: 41189440059
+21_4_1
+Memory Read Size: 12245255972
+21_8_1
+Memory Read Size: 22697730336
+21_16_1
+Memory Read Size: 42042732427
+21_32_1
+Memory Read Size: 81525837464
+22_4_1
+Memory Read Size: 24653905627
+22_8_1
+Memory Read Size: 45923595490
+22_16_1
+Memory Read Size: 85405166606
+22_32_1
+Memory Read Size: 166172956381
